@@ -2,11 +2,11 @@ Hi there 👋!
 
 Who I am?
 
-A QA Engineer based in Hyderabad, Telangana, :india: .
+An Engineer based in Hyderabad, Telangana, :india: .
 
 **What I'm doing?**
 
-  * Writing Python, Laravel, Node.js, JavaScript, TypeScript, Nest.js, MySQL.
+  * Writing Python, Java, Laravel, Node.js, JavaScript, TypeScript, Nest.js, MySQL.
   * Contributing to Open Source.
   * Mostly active on [LinkedIn](https://www.linkedin.com/in/mohan-gmk/).
   * Building currently OMNIAutomation, Blockchain Testing Framework, MLOPS, FRAMMERCE
@@ -15,7 +15,7 @@ A QA Engineer based in Hyderabad, Telangana, :india: .
 
 🗄️ **Backend**:
 
-+ **Programming**: Ruby • Python • Java • TypeScript • JavaScript
++ **Programming**: Ruby • Python • Java • TypeScript • JavaScript . GO
 + **Framework**: React.js • Nest.js • Express.js • RubyonRails • SpringBoot
 + **Databases**: MySQL • PostgreSQL • MongoDB • DynamoDB
 + **System Architectur**e: Monolithic • Modular • Microservices
@@ -30,7 +30,7 @@ A QA Engineer based in Hyderabad, Telangana, :india: .
 **Ecosystem**:
 
 + **Containerization**: Docker • Kubernetes • GitHub Codespaces
-+ **Version Control**: Git • GitHub
++ **Version Control**: Git • GitHub . GitLab . BitBucket
 + **CI/CD**: Github Actions • Travis CI • Jenkins • GitLab CI/CD
 + **Project Management**: Jira • GitHub Projects • Trello • Asana
 
