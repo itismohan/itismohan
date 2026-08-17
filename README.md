@@ -32,7 +32,7 @@ I'm an engineering leader passionate about building **scalable automation ecosys
 - ⚙️ **Quality Assurance** — Enterprise-grade testing architecture
 - ☁️ **Cloud-Native Systems** — Microservices & distributed architectures
 
-With deep experience across **backend systems**, **test automation**, and **cloud infrastructure**, I solve complex engineering problems through clean architecture, automation intelligence, and developer-centric design.
+With deep experience across **backend systems**, **test automation**, and **cloud infrastructure**, I solve complex engineering problems through clean architecture, automation intelligence, and de[...]
 
 ---
 
@@ -189,7 +189,7 @@ I'm passionate about building tools that **improve engineering productivity**. O
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itismohan&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itismohan&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itismohan&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9)
 
