@@ -102,12 +102,5 @@ If you have an idea or project that aligns, let’s talk!
 - ☕ I enjoy designing systems as much as building them
 - 🚀 Passionate about turning complex problems into scalable solutions
 
-## 🤝 Connect
-
-- Portfolio: https://mkgundala.netlify.app/
-- GitHub: https://github.com/itismohan
-- LinkedIn: https://www.linkedin.com
-
----
 
 _Built with clarity, simplicity, and a focus on practical systems engineering._
