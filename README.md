@@ -32,7 +32,7 @@ I'm an engineering leader passionate about building **scalable automation ecosys
 - ⚙️ **Quality Assurance** — Enterprise-grade testing architecture
 - ☁️ **Cloud-Native Systems** — Microservices & distributed architectures
 
-With deep experience across **backend systems**, **test automation**, and **cloud infrastructure**, I solve complex engineering problems through clean architecture, automation intelligence, and de[...]
+With deep experience across **backend systems**, **test automation**, and **cloud infrastructure**, I solve complex engineering problems through clean architecture, automation intelligence, and developer-centered platform design.
 
 ---
 
@@ -185,13 +185,24 @@ I'm passionate about building tools that **improve engineering productivity**. O
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary (Shields.io fallbacks)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itismohan&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
+<!-- Fallback badges using Shields.io to avoid runtime SVG failures from external services -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itismohan&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9)
+[![Followers](https://img.shields.io/github/followers/itismohan?label=Followers&style=flat-square&logo=github&color=blue)](https://github.com/itismohan)
+[![Public Repos](https://img.shields.io/github/search?query=user:itismohan&type=repositories&label=Public%20Repos&style=flat-square&color=informational)](https://github.com/itismohan?tab=repositories)
+[![Top Language](https://img.shields.io/github/languages/top/itismohan/itismohan?style=flat-square&color=success)](https://github.com/itismohan/itismohan)
+
+
+<!-- Static language badges as a compact fallback instead of the Top Languages SVG chart -->
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </div>
 
