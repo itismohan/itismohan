@@ -8,8 +8,8 @@
 
 Passionate about building scalable systems, intelligent automation platforms, developer tooling, and enterprise-grade quality engineering ecosystems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://mkgundala.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/mohan-gmk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://mgundala.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-itismohan-181717?style=for-the-badge&logo=github)](https://github.com/itismohan)
 
 </div>
