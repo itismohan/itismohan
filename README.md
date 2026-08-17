@@ -1,106 +1,220 @@
-# Hi there 👋 I'm Mohan G
+# 👋 Hi there, I'm Mohan G
 
 <div align="center">
 
-### Engineering Manager • Automation Architect • AI-Driven Platform Builder
+### 🚀 Engineering Manager • Automation Architect • AI-Driven Platform Builder
 
-🚀 Based in Hyderabad, India 🇮🇳
+**Building Scalable Systems & Intelligent Automation Ecosystems**
 
-Passionate about building scalable systems, intelligent automation platforms, developer tooling, and enterprise-grade quality engineering ecosystems.
+📍 Based in Hyderabad, India 🇮🇳
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/mohan-gmk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://mgundala.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-itismohan-181717?style=for-the-badge&logo=github)](https://github.com/itismohan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-gmk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mgundala.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-itismohan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itismohan)
+[![Twitter](https://img.shields.io/badge/Twitter-@mohan__gmk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohan_gmk)
 
 </div>
 
 ---
 
-<!-- TOC -->
-## Table of Contents
+## 📑 Quick Navigation
 
-- [About Me](#about-me)
-- [Current Work & Projects](#current-work--projects)
-- [Tech & Tools](#tech--tools)
-- [Quality Engineering & Automation](#quality-engineering--automation)
-- [Cloud & DevOps](#cloud--devops)
-- [What I Enjoy Building](#what-i-enjoy-building)
-- [Open Source & Collaboration](#open-source--collaboration)
-- [Fun Facts](#fun-facts)
-- [Connect](#connect)
+| [About Me](#-about-me) | [Current Projects](#-current-projects) | [Tech Stack](#-tech-stack) | [Open Source](#-open-source) | [Connect](#-connect) |
+|:---:|:---:|:---:|:---:|:---:|
 
-<!-- /TOC -->
+---
 
 ## 👨‍💻 About Me
 
-I’m an engineering leader focused on building scalable automation ecosystems, developer platforms, and AI-powered engineering solutions. I work at the intersection of platform engineering, quality engineering, and automation — designing systems that help teams move faster while keeping reliability and observability front-and-center.
+I'm an engineering leader passionate about building **scalable automation ecosystems**, **AI-powered platforms**, and **developer tooling**. I work at the intersection of:
 
-With experience across enterprise platforms, backend systems, and cloud-native architectures, I enjoy solving complex engineering problems through clean architecture, automation, and developer-centered platform design.
+- 🤖 **AI & Automation** — Leveraging intelligent agents for next-gen testing
+- 🏗️ **Platform Engineering** — Building developer platforms that scale
+- ⚙️ **Quality Assurance** — Enterprise-grade testing architecture
+- ☁️ **Cloud-Native Systems** — Microservices & distributed architectures
 
-## 🔭 Current Work & Projects
+With deep experience across **backend systems**, **test automation**, and **cloud infrastructure**, I solve complex engineering problems through clean architecture, automation intelligence, and developer-centric design.
 
-- **OMNIAutomation** — An AI-driven test automation framework that combines Playwright with intelligent agents to support multi-channel testing (Web, API, Mobile).
-- **PLAYSHIFT** — A web app for converting Selenium automation code (Java/Python) to Playwright TypeScript, with an enterprise UI and real-time conversion dashboard.
-- **ATOM** — An enterprise AI assistant for intelligent test generation, execution, and management, designed to streamline next-generation testing workflows.
-- **DATAGENIE** — A microservices-based data governance and metadata management platform.
+---
 
-For more details and demos, check my portfolio: https://mkgundala.netlify.app/
+## 🔭 Current Work & Featured Projects
 
-## 🛠 Tech & Tools
+<table>
+<tr>
+<td width="50%">
 
-I use a wide range of languages, frameworks, and tools depending on the problem domain.
+### 🎯 OMNIAutomation
+*AI-Driven Test Automation Framework*
 
-- Languages: Python, Java, JavaScript, TypeScript, Go, Ruby, PHP
-- Backend & Frameworks: NestJS, Express, Spring Boot, Rails, Laravel
-- Databases: MySQL, PostgreSQL, MongoDB, DynamoDB
-- Frontend: React, Gatsby, Docusaurus
-- Styling: TailwindCSS, CSS Modules
+An intelligent test automation platform combining **Playwright** with **AI agents** for multi-channel testing:
+- Web automation
+- API testing  
+- Mobile testing
+- Intelligent test generation
 
-### Testing & Automation
-- Web: Selenium, Playwright, Cypress, Puppeteer, WebdriverIO, TestCafe
-- Mobile: Appium, Espresso, XCUITest, Detox
-- API & Service Testing: Postman, REST Assured, Karate, SoapUI, Insomnia, GraphQL
-- Test Frameworks: JUnit 5, TestNG, PyTest, Cucumber (BDD), TDD practices
-- Performance & Reliability: JMeter, k6, Gatling, Locust
-- Reporting & Observability: Allure, Extent Reports, ELK, Grafana
+</td>
+<td width="50%">
 
-### Architecture & Practices
-Microservices • Modular Monoliths • REST • GraphQL • Event-Driven Systems • Test Orchestration • Contract Testing • Visual Testing • AI-Powered Testing
+### 🔄 PLAYSHIFT
+*Automation Code Conversion Platform*
 
-## ⚙ Cloud, DevOps & Infrastructure
+Enterprise web application for converting automation code:
+- Selenium (Java/Python) → Playwright (TypeScript)
+- Real-time conversion dashboard
+- Enterprise UI with analytics
 
-- Containers & Orchestration: Docker, Kubernetes
-- CI/CD: GitHub Actions, GitLab CI, Jenkins
-- Developer Environments: GitHub Codespaces
-- Version Control: Git, GitHub, GitLab, Bitbucket
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 📈 What I Enjoy Building
+### 🤖 ATOM
+*Enterprise AI Test Assistant*
 
-- Enterprise automation frameworks
-- AI + automation platforms
-- Scalable APIs & backend systems
-- Developer platforms & tooling
-- Intelligent testing ecosystems
-- Cloud-native engineering solutions
+Next-generation testing orchestration platform:
+- Intelligent test generation
+- Automated execution management
+- Test analytics & insights
+
+</td>
+<td width="50%">
+
+### 📊 DATAGENIE
+*Data Governance Platform*
+
+Microservices-based metadata management:
+- Data governance automation
+- Metadata indexing & discovery
+- Enterprise data quality
+
+</td>
+</tr>
+</table>
+
+**🔗 Explore more:** [Portfolio & Demos](https://mgundala.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Platforms
+```
+Python  |  Java  |  JavaScript  |  TypeScript  |  Go  |  Ruby  |  PHP
+```
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### 🖥️ Backend & Frameworks
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+### 🧪 Testing & QA
+```
+Selenium  |  Playwright  |  Cypress  |  Puppeteer  |  WebdriverIO
+Appium  |  Espresso  |  XCUITest  |  REST Assured  |  Karate
+JUnit 5  |  TestNG  |  PyTest  |  Cucumber (BDD)
+```
+
+### 📊 Performance & Observability
+![JMeter](https://img.shields.io/badge/JMeter-D84315?style=flat-square)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-25B312?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🏗️ Architecture Patterns
+```
+Microservices  •  Modular Monoliths  •  Event-Driven  •  REST & GraphQL
+Test Orchestration  •  Contract Testing  •  Visual Testing  •  AI-Powered Testing
+```
+
+---
+
+## 📈 What I Build
+
+<div align="center">
+
+| 🏢 | 🤖 | 🚀 | 👨‍💼 | 🌐 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Enterprise Platforms** | **AI/ML Integration** | **Scalable Systems** | **Developer Tools** | **Cloud Solutions** |
+| Automation frameworks | AI-driven testing | Microservices | Internal tools | Distributed systems |
+| Testing ecosystems | Intelligent agents | Cloud-native apps | CLI utilities | Containerized apps |
+
+</div>
+
+---
 
 ## 🌍 Open Source & Collaboration
 
-I enjoy collaborating on projects that improve engineering productivity, automation intelligence, and developer experience. Open to contributions, partnerships, or mentorship on the following:
+I'm passionate about building tools that **improve engineering productivity**. Open to:
 
-- Open source automation tools
-- AI-augmented developer workflows
-- Platform engineering projects
-- Quality engineering and test architecture
+- 🔓 **Open Source Contributions** — Test automation tools & frameworks
+- 🤝 **Partnerships** — AI-augmented developer workflows
+- 📚 **Mentorship** — Quality engineering & platform architecture
+- 💡 **Collaboration** — Innovation in testing & automation
 
-If you have an idea or project that aligns, let’s talk!
+**Have an interesting project?** Let's collaborate! ➡️ [Connect with me](#-connect)
 
-## 🎯 Fun Facts
+---
 
-- 🏋️‍♂️ Fitness helps me recharge and stay focused
-- 📚 I enjoy reading about technology, systems thinking, and spirituality
-- 🎧 Music keeps me productive while building
-- ☕ I enjoy designing systems as much as building them
-- 🚀 Passionate about turning complex problems into scalable solutions
+## 🎯 Fun Facts & Interests
 
+| Interest | Details |
+|:---|:---|
+| 💪 | Fitness enthusiast — keeps me focused & energized |
+| 📚 | Avid reader — technology, systems thinking, philosophy |
+| 🎵 | Music lover — powers productivity while coding |
+| ☕ | System designer at heart — as passionate about design as implementation |
+| 🚀 | Problem solver — turning complexity into elegant solutions |
 
-_Built with clarity, simplicity, and a focus on practical systems engineering._
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itismohan&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itismohan&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+📧 **Email** — mohan.gmk@gmail.com  
+🔗 **LinkedIn** — [Mohan G](https://www.linkedin.com/in/mohan-gmk)  
+🌐 **Portfolio** — [mgundala.netlify.app](https://mgundala.netlify.app/)  
+💬 **GitHub** — [@itismohan](https://github.com/itismohan)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *Built with clarity, simplicity, and a passion for systems engineering* ✨
+
+![visitors](https://komarev.com/ghpvc/?username=itismohan&style=flat-square&color=blue)
+
+</div>
