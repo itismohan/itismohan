@@ -178,33 +178,10 @@ I'm passionate about building tools that **improve engineering productivity**. O
 | Interest | Details |
 |:---|:---|
 | 💪 | Fitness enthusiast — keeps me focused & energized |
-| 📚 | Avid reader — technology, systems thinking, philosophy |
+| 📚 | Author, Avid reader — technology, systems thinking, philosophy |
 | 🎵 | Music lover — powers productivity while coding |
 | ☕ | System designer at heart — as passionate about design as implementation |
 | 🚀 | Problem solver — turning complexity into elegant solutions |
-
----
-
-## 📊 GitHub Summary (Shields.io fallbacks)
-
-<div align="center">
-
-<!-- Fallback badges using Shields.io to avoid runtime SVG failures from external services -->
-
-[![Followers](https://img.shields.io/github/followers/itismohan?label=Followers&style=flat-square&logo=github&color=blue)](https://github.com/itismohan)
-[![Public Repos](https://img.shields.io/github/search?query=user:itismohan&type=repositories&label=Public%20Repos&style=flat-square&color=informational)](https://github.com/itismohan?tab=repositories)
-
-
-<!-- Replaced Top Language badge with per-repo static language badges (robust fallback) -->
-
-**Primary languages (across my repos):**  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-</div>
 
 ---
 
