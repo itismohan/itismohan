@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-gmk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mgundala.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-itismohan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itismohan)
-[![Twitter](https://img.shields.io/badge/Twitter-@mohan__gmk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohan_gmk)
 
 </div>
 
@@ -202,10 +201,9 @@ I'm passionate about building tools that **improve engineering productivity**. O
 
 <div align="center">
 
-📧 **Email** — mohan.gmk@gmail.com  
-🔗 **LinkedIn** — [Mohan G](https://www.linkedin.com/in/mohan-gmk)  
-🌐 **Portfolio** — [mgundala.netlify.app](https://mgundala.netlify.app/)  
-💬 **GitHub** — [@itismohan](https://github.com/itismohan)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/mohan-gmk)  
+🌐 [**Portfolio**](https://mgundala.netlify.app/)  
+💬 [**GitHub**](https://github.com/itismohan)
 
 </div>
 
